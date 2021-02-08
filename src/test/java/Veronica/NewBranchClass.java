@@ -5,5 +5,7 @@ public class NewBranchClass {
         // adding some work
         // work
         // work
+        // work
+        // work
     }
 }
