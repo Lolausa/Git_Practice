@@ -7,5 +7,7 @@ public class NewBranchClass {
         // work
         // work
         // work
+        // work
+        // work
     }
 }
